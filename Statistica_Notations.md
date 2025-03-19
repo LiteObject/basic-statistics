@@ -4,16 +4,6 @@ Statistics is a powerful tool for understanding and interpreting data, but it co
 
 ---
 
-## **Why Learn Statistical Notation?**
-Statistical notation serves several purposes:
-1. **Efficiency**: Symbols allow statisticians to express complicated ideas succinctly.
-2. **Precision**: Notation eliminates ambiguity, ensuring everyone interprets formulas and concepts consistently.
-3. **Universality**: These symbols are used across disciplines, from biology to economics, making communication seamless.
-
-While learning notation may feel like memorization at first, it’s more about understanding the logic behind each symbol and how it fits into the broader framework of statistics.
-
----
-
 ## **Basic Statistical Notations**
 
 ### 1. **Variables**
